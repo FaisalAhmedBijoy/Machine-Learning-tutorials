@@ -1,0 +1,10 @@
+day,temperature,windspeed,event
+01-01-17,32,6,rain
+01-04-17,,9,sunny
+01-05-17,28,,snow
+01-06-17,,7,
+01-07-17,32,,rain
+01-08-17,,,sunny
+01-09-17,,,
+01-10-17,34,8,cloudy
+01-11-17,40,12,sunny

@@ -1,0 +1,10 @@
+day,city,temperature,windspeed,event
+01-01-17,new york,32,6,rain
+01-02-17,new york,36,7,sunny
+01-03-17,new york,34,9,snow
+01-01-17,mumbai,90,10,rain
+01-02-17,mumbai,80,11,sunny
+01-03-17,mumbai,70,12,rain
+01-01-17,paris,50,20,rain
+01-02-17,paris,52,21,sunny
+01-03-17,paris,53,22,snow
