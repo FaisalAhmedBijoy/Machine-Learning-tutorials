@@ -11,8 +11,9 @@ pandas matplotlib sklearn
 <li>Time series Analylis part 1: Date time index and resample</li>
 <li>Time series part 2 : Date Range</li>
 <li><b>Matplotlib introduction</b></li>
+</ol>
 
-<ol>
+
 <b>Machine Learning</b>
 <ol>
 <li>Linear Regression</li>
